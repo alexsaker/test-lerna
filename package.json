@@ -1,6 +1,6 @@
 {
   "name": "test-lerna",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "lerna": "^3.22.1"
   },
