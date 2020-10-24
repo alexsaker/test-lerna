@@ -1,0 +1,23 @@
+{
+  "name": "test-lerna",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsaker/test-lerna.git"
+  },
+  "author": "Alexandre SAKER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexsaker/test-lerna/issues"
+  },
+  "homepage": "https://github.com/alexsaker/test-lerna#readme"
+}
