@@ -8,6 +8,8 @@
 
  ## Modify packages 
  ```bash
+ # Change version using
+ lerna version --conventional-commits -y
  # Publish changed package from version in package.json file
  lerna publish from-package  --dist-tag latest -y
  ```
