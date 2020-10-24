@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alexsaker/test-lerna/issues"
   },
-  "homepage": "https://github.com/alexsaker/test-lerna#readme"
+  "homepage": "https://github.com/alexsaker/test-lerna#readme",
+  "dependencies": {
+    "verdaccio": "^4.8.1"
+  }
 }
