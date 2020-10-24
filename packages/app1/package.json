@@ -1,8 +1,8 @@
 {
   "name": "app1",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "",
-  "main": "index.js",
+  "files": ["*json","README.md"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
