@@ -2,5 +2,7 @@
   "packages": [
     "packages/*"
   ],
+  "version": "independent",
+  "granularPathspec": false,
   "version": "1.0.0"
 }
