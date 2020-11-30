@@ -1,6 +1,7 @@
 {
   "name": "app1",
-  "version": "2.0.7",
+  "version": "2.0.9",
+  "private":true,
   "description": "This is app1",
   "keywords": [],
   "author": "Alexandre Saker",
